@@ -1,0 +1,31 @@
+.counter {
+	margin-bottom: 25px;
+}
+
+.counter__count {
+	margin-bottom: 15px;
+	text-align: center;
+	font-size: 24px;
+}
+
+.counter__btns {
+	display: flex;
+	justify-content: center;
+	margin: 0 -10px;
+}
+
+.counter__btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 50px;
+	height: 50px;
+	padding: 20px;
+	margin: 0 10px;
+	border: 2px solid #000;
+	border-radius: 50%;
+	cursor: pointer;
+	background-color: #000;
+	color: #fff;
+	font-size: 24px;
+}
